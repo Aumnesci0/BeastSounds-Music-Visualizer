@@ -1,0 +1,5 @@
+{
+  "name": "Rhythm Visualizer",
+  "description": "A web application that generates geometric shapes to visualize musical rhythms and tempos. Users can specify a time signature and BPM to see a corresponding shape with a dot moving to each corner on the beat, similar to a metronome.",
+  "requestFramePermissions": []
+}
